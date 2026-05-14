@@ -22,5 +22,4 @@ Ngôn ngữ thường sử dụng:
 # Thông tin sinh viên
 
 * Họ và tên: Lê Minh Huy
-* MSSV: 24110019
 * Lớp: 24110CTNB
